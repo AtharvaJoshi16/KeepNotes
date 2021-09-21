@@ -5,6 +5,7 @@ const Footer = () =>{
     return (
         <>
         <footer className="footer">
+            <h3>By Atharva Joshi</h3>
             <p>copyright @ {year}</p>
         </footer>
         </>
