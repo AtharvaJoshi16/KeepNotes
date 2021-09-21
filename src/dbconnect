@@ -1,0 +1,25 @@
+//firedb.child("KeepNotesData").push(title,content);
+
+        // const {title,content} = note;
+
+        // if (title && content){
+        // e.preventDefault();
+        // const response= await fetch("https://keepnotes-c0d21-default-rtdb.firebaseio.com/keepnotes.json",
+        //     {
+        //         method: "POST",
+        //         headers: {
+        //             "Content-type": "application/json",
+        //         },
+        //         body: JSON.stringify({
+        //             title,
+        //             content,
+        //         })
+        // });
+        // if (response) {
+        //     setNote({
+        //         title: "",
+        //         content: ""
+        //     });
+
+        //     alert("Data Saved!");
+        // }
